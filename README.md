@@ -1,12 +1,12 @@
 # MineSaga-Console-Client
-MineSage Console Client (Auto reconnect, join realm, check realm, sell all)
+MineSaga  lient (Auto reconnect, join realm, check realm, sell all)
 
-This is a patched version of the client from minesaga fourms: https://github.com/DylanRR/MineSaga-Console-Client
+This is an edited version to fit better with Minesaga.
 fixed reconnect issues and disabled autoreply.
 
 TO DOWNLOAD GO TO TOP RIGHT [CLONE OR DOWNLOAD] AND CLICK DOWNLOAD ZIP, EXTRACT TO A FOLDER.
 
-Currently setup for kingdom realm with autosell on.
+Currently setup for kingdom realm with autosell off
 _______________________________________________________________________________________
 Setting up your account:
 
