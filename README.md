@@ -1,12 +1,11 @@
-# MineSaga-Console-Client
-MineSaga  lient (Auto reconnect, join realm, check realm, sell all)
+MineSaga Console Client
 
-This is an edited version to fit better with Minesaga.
-fixed reconnect issues and disabled autoreply.
+This is an edited version of ORelio console client to fit better with Minesaga.
+Feel free to ask me any questions.
 
 TO DOWNLOAD GO TO TOP RIGHT [CLONE OR DOWNLOAD] AND CLICK DOWNLOAD ZIP, EXTRACT TO A FOLDER.
 
-Currently setup for kingdom realm with autosell off
+Currently setup for autojoin kingdom realm with autosell off
 _______________________________________________________________________________________
 Setting up your account:
 
