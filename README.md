@@ -1,3 +1,5 @@
+YOU CAN DELETE ALL .git FILES AFTER DOWNLOAD
+
 MineSaga Console Client
 
 This is an edited version of ORelio console client to fit better with Minesaga.
